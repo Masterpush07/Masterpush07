@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi, I’m @Masterpush07 🌟<br><br>Passionate about teaching machines to think: ML, Deep Learning, NLP, Gen-AI, CV 🤖<br><br>Looking to collaborate on AI/ML projects and discuss visionary ideas 💡<br><br>Let’s build AI that inspires the future 🚀<br><br>Constantly exploring the intersection of AI and human creativity 🎨<br><br>Forever on the lookout for the next big thing in AI 🚀<br><br>Reach me at pushpanathan0704@gmail.com 📧<br><br>Fun fact: I dream of training an AI to play chess better than me ♟️
 
----
 [![](https://visitcount.itsvg.in/api?id=Masterpush07&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/master_push_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpanathan-natarajan-275545250/) 
